@@ -1,4 +1,4 @@
-# AI-Powered Stock Sentiment Analysis
+# AI-Powered Stock Sentiment Analysis(Mini Project)
 
 ## Description
 Scrape real-time financial news and apply **Natural Language Processing (NLP)** for sentiment analysis to generate **AI-driven insights** on stock market trends. This project demonstrates an end-to-end workflow:
